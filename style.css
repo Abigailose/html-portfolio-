@@ -1,1 +1,90 @@
-h1{ color: orange;}
+.wave{
+    background-color: aqua;
+   
+}
+.line{
+    max-width: 400px;
+}
+.water{
+    text-align: center;
+}
+
+.wade{
+    background-color: white;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 3px 20px;
+    box-shadow: 2px 5px 10px;
+    
+}
+h2{
+    margin-bottom: 5px;
+}
+
+#comment, #text, .line{
+    width: 100%;
+}
+
+.loop{
+    
+    width: 10px;
+    height: 14px;
+    border-radius: 50%;
+}
+button{
+    width: 100%;
+    background-color: aqua;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+@media (max-width:500px) {
+
+.wave{
+    background-color: aqua;
+   
+}
+.line{
+    max-width: 100px;
+}
+.water{
+    text-align: center;
+}
+
+.wade{
+    background-color: white;
+    max-width: 250px;
+    margin: 5px auto;
+    padding: 3px 2px;
+    box-shadow: 2px 5px 10px;
+    
+}
+h2{
+    margin-bottom: 5px;
+}
+
+#comment, #text, .line{
+    width: 100%;
+}
+
+.loop{
+    
+    width: 10px;
+    height: 14px;
+    border-radius: 50%;
+}
+button{
+    width: 100%;
+    background-color: aqua;
+    border-radius: 8px;
+    padding: 5px;
+    margin-bottom: 30px;
+    
+}
+
+    
+}
